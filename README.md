@@ -1,6 +1,6 @@
 ## NFT拍卖市场
 
-**实现一个NFT拍卖市场，出售者（Seller）可以把自己的NFT 上架市场，拍卖者（Bidder）围绕NFT进行拍卖。拍卖结束，NFT转给最高出价者，Seller获取相应的拍卖金额。**
+**实现一个NFT拍卖市场，出售者（Seller）可以把自己的NFT 上架市场，拍卖者（Bidder）围绕NFT进行出价。拍卖结束，NFT转给最高出价者，Seller获取相应的拍卖金额。**
 
 ## Feature
 
